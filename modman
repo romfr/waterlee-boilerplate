@@ -6,3 +6,4 @@ app/design/adminhtml/default/default/layout/meanbee/tinymce5.xml     app/design/
 app/design/frontend/waterlee-boilerplate/default                     app/design/frontend/waterlee-boilerplate/default
 js/meanbee/tinymce5                                                  js/meanbee/tinymce5
 skin/frontend/waterlee-boilerplate/default                           skin/frontend/waterlee-boilerplate/default
+js/jquery/jquery-2.1.1.min.js					     js/jquery/jquery-2.1.1.min.js
